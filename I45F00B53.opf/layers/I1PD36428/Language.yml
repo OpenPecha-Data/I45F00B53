@@ -1,0 +1,99 @@
+id: e343f01e8a754d2aaced7a399bb41011
+annotation_type: Language
+revision: '00001'
+annotations:
+  effa926c8cfe4f6bbeaa68ee4217c271:
+    span:
+      start: 39
+      end: 166
+    language: en
+  ee0f3113c7ff4406822ba0142e47c9a8:
+    span:
+      start: 236
+      end: 774
+    language: en
+  3bb8191879524f2c8f66f2c89cd5c3d8:
+    span:
+      start: 806
+      end: 832
+    language: en
+  9b1634c1cb3b478fb506d8639dc75f2b:
+    span:
+      start: 935
+      end: 975
+    language: en
+  1f0d3b6dd1d8408b9e5876aefcd5a112:
+    span:
+      start: 1020
+      end: 1040
+    language: en
+  b9f6702db97f4b4e92470628470819d0:
+    span:
+      start: 1076
+      end: 1119
+    language: en
+  289b2a7005fb494f8a7c47851b67f3d9:
+    span:
+      start: 1142
+      end: 1180
+    language: en
+  2bbffc5b83ba4b7c80c046a679799a21:
+    span:
+      start: 1622
+      end: 1647
+    language: en
+  2190da3faa9641f499d891e82ecb17d0:
+    span:
+      start: 5531
+      end: 5558
+    language: en
+  efa80868a660404082803763603e8c79:
+    span:
+      start: 7358
+      end: 7671
+    language: en
+  7a260b1efb5c41d0897393d1c2776a23:
+    span:
+      start: 9118
+      end: 9142
+    language: en
+  4a60c98aa46d4b0d84bfe30bcc3eda16:
+    span:
+      start: 9177
+      end: 9202
+    language: en
+  b6313b7543e54a8fbc81e80e1baef0c9:
+    span:
+      start: 10394
+      end: 10450
+    language: en
+  280660396dfc4cf1ab078ddd1e7cb9c2:
+    span:
+      start: 11088
+      end: 11198
+    language: en
+  d800e1dab4ec4e57ab1da286d72de76a:
+    span:
+      start: 11482
+      end: 11508
+    language: en
+  71fae2e5089d41f6a9feb3452ea25eb7:
+    span:
+      start: 11970
+      end: 12009
+    language: en
+  21bba80650444cd78bba25fb1cd63caa:
+    span:
+      start: 12158
+      end: 12200
+    language: en
+  cd3ed4f965444c33a892643798f3e061:
+    span:
+      start: 22388
+      end: 22464
+    language: en
+  10ba0dbc383c4406b9ea0f33e253b4a8:
+    span:
+      start: 24983
+      end: 25215
+    language: en
